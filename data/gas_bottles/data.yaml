@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['gas_cylinder']
+
+roboflow:
+  workspace: klearchos-stavrothanasopoulos-konstantinos-gkountakos-6jwgj
+  project: cylinders-iaq6n
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/klearchos-stavrothanasopoulos-konstantinos-gkountakos-6jwgj/cylinders-iaq6n/dataset/3

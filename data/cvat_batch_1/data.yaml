@@ -1,0 +1,4 @@
+names:
+  0: gas-bottles
+path: .
+train: train.txt

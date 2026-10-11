@@ -1,0 +1,7 @@
+path: D:/BCS Files/Y3S1/AI Applications MBI38j/Labs/primagaz-yolo/data/gas_bottles
+train: train/images
+val: valid/images
+test: test/images
+names:
+- gas_cylinder
+nc: 1
