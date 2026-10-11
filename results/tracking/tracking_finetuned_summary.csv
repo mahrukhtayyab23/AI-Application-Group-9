@@ -1,0 +1,16 @@
+model,video,tracker,frames_processed,seconds,fps,unique_ids,top_classes,video_saved
+gas_bottles,14_55_back_left_cropped.mp4,bytetrack,151,15.57,9.7,2,{'gas_cylinder': 153},True
+gas_bottles,14_55_back_right_cropped.mp4,bytetrack,151,6.54,23.1,2,{'gas_cylinder': 157},False
+gas_bottles,14_55_front_cropped.mp4,bytetrack,151,6.6,22.88,4,{'gas_cylinder': 164},False
+gas_bottles,Bolivia： FLEXSPEED for Side-Entry Valves (2014).mp4,bytetrack,151,4.85,31.12,2,{'gas_cylinder': 131},False
+gas_bottles,Portugal： Petrogal LPG Cylinder Filling Plant (2013).mp4,bytetrack,151,4.46,33.84,1,{'gas_cylinder': 149},False
+gas_cylinder,14_55_back_left_cropped.mp4,bytetrack,151,15.32,9.85,0,{},True
+gas_cylinder,14_55_back_right_cropped.mp4,bytetrack,151,6.28,24.05,0,{},False
+gas_cylinder,14_55_front_cropped.mp4,bytetrack,151,6.25,24.15,0,{},False
+gas_cylinder,Bolivia： FLEXSPEED for Side-Entry Valves (2014).mp4,bytetrack,151,5.33,28.33,0,{},False
+gas_cylinder,Portugal： Petrogal LPG Cylinder Filling Plant (2013).mp4,bytetrack,151,4.23,35.7,0,{},False
+cvat_batch_1,14_55_back_left_cropped.mp4,bytetrack,151,17.84,8.46,3,{'gas-bottles': 217},True
+cvat_batch_1,14_55_back_right_cropped.mp4,bytetrack,151,8.13,18.56,3,{'gas-bottles': 238},False
+cvat_batch_1,14_55_front_cropped.mp4,bytetrack,151,9.78,15.43,2,{'gas-bottles': 143},False
+cvat_batch_1,Bolivia： FLEXSPEED for Side-Entry Valves (2014).mp4,bytetrack,151,6.32,23.91,2,{'gas-bottles': 218},False
+cvat_batch_1,Portugal： Petrogal LPG Cylinder Filling Plant (2013).mp4,bytetrack,151,4.88,30.94,6,{'gas-bottles': 317},False

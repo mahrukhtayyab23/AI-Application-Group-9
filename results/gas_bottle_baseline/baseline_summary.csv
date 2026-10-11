@@ -1,0 +1,2 @@
+Model,Model size,Input images,Image source,Confidence threshold,Images with >=1 detection,Percentage with detection,Total detections,Explicit cylinder class in model,Top detected classes,Output CSV,Annotated examples,Device used
+YOLO11n (pretrained on COCO),nano,321,data\all_images,0.25,248,77.3%,454,False,"{'vase': 128, 'person': 97, 'chair': 32, 'bottle': 31, 'fire hydrant': 18}",results\gas_bottle_baseline\baseline_detections.csv,results\gas_bottle_baseline\annotated,cpu

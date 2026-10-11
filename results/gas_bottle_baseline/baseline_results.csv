@@ -1,0 +1,322 @@
+image,detections,detected_classes,annotated_image
+14_55_back_left_cropped_0000.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0000.jpg
+14_55_back_left_cropped_0001.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0001.jpg
+14_55_back_left_cropped_0002.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0002.jpg
+14_55_back_left_cropped_0003.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0003.jpg
+14_55_back_left_cropped_0004.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0004.jpg
+14_55_back_left_cropped_0005.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0005.jpg
+14_55_back_left_cropped_0006.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0006.jpg
+14_55_back_left_cropped_0007.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0007.jpg
+14_55_back_left_cropped_0008.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0008.jpg
+14_55_back_left_cropped_0009.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0009.jpg
+14_55_back_left_cropped_0010.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0010.jpg
+14_55_back_left_cropped_0011.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0011.jpg
+14_55_back_left_cropped_0012.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0012.jpg
+14_55_back_left_cropped_0013.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0013.jpg
+14_55_back_left_cropped_0014.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0014.jpg
+14_55_back_left_cropped_0015.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0015.jpg
+14_55_back_left_cropped_0016.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0016.jpg
+14_55_back_left_cropped_0017.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0017.jpg
+14_55_back_left_cropped_0018.jpg,3,"vase, bowl, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0018.jpg
+14_55_back_left_cropped_0019.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0019.jpg
+14_55_back_left_cropped_0020.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0020.jpg
+14_55_back_left_cropped_0021.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0021.jpg
+14_55_back_left_cropped_0022.jpg,2,"vase, bird",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0022.jpg
+14_55_back_left_cropped_0023.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0023.jpg
+14_55_back_left_cropped_0024.jpg,2,"cake, bowl",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0024.jpg
+14_55_back_left_cropped_0025.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0025.jpg
+14_55_back_left_cropped_0026.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0026.jpg
+14_55_back_left_cropped_0027.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0027.jpg
+14_55_back_left_cropped_0028.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0028.jpg
+14_55_back_left_cropped_0029.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0029.jpg
+14_55_back_left_cropped_0030.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0030.jpg
+14_55_back_left_cropped_0031.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0031.jpg
+14_55_back_left_cropped_0032.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0032.jpg
+14_55_back_left_cropped_0033.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0033.jpg
+14_55_back_left_cropped_0034.jpg,3,"vase, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0034.jpg
+14_55_back_left_cropped_0035.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0035.jpg
+14_55_back_left_cropped_0036.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0036.jpg
+14_55_back_left_cropped_0037.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0037.jpg
+14_55_back_left_cropped_0038.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0038.jpg
+14_55_back_left_cropped_0039.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0039.jpg
+14_55_back_left_cropped_0040.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0040.jpg
+14_55_back_left_cropped_0041.jpg,2,"vase, bowl",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0041.jpg
+14_55_back_left_cropped_0042.jpg,3,"cake, vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0042.jpg
+14_55_back_left_cropped_0043.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0043.jpg
+14_55_back_left_cropped_0044.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0044.jpg
+14_55_back_left_cropped_0045.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0045.jpg
+14_55_back_left_cropped_0046.jpg,2,"cake, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0046.jpg
+14_55_back_left_cropped_0047.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0047.jpg
+14_55_back_left_cropped_0048.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0048.jpg
+14_55_back_left_cropped_0049.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0049.jpg
+14_55_back_left_cropped_0050.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0050.jpg
+14_55_back_left_cropped_0051.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0051.jpg
+14_55_back_left_cropped_0052.jpg,2,"cup, bird",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0052.jpg
+14_55_back_left_cropped_0053.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0053.jpg
+14_55_back_left_cropped_0054.jpg,2,"bottle, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0054.jpg
+14_55_back_left_cropped_0055.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0055.jpg
+14_55_back_left_cropped_0056.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0056.jpg
+14_55_back_left_cropped_0057.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0057.jpg
+14_55_back_left_cropped_0058.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0058.jpg
+14_55_back_left_cropped_0059.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0059.jpg
+14_55_back_left_cropped_0060.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0060.jpg
+14_55_back_left_cropped_0061.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0061.jpg
+14_55_back_left_cropped_0062.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0062.jpg
+14_55_back_left_cropped_0063.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0063.jpg
+14_55_back_left_cropped_0064.jpg,2,"cake, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0064.jpg
+14_55_back_left_cropped_0065.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0065.jpg
+14_55_back_left_cropped_0066.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0066.jpg
+14_55_back_left_cropped_0067.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0067.jpg
+14_55_back_left_cropped_0068.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0068.jpg
+14_55_back_left_cropped_0069.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_left_cropped_0069.jpg
+14_55_back_right_cropped_0000.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0000.jpg
+14_55_back_right_cropped_0001.jpg,3,"chair, toilet, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0001.jpg
+14_55_back_right_cropped_0002.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0002.jpg
+14_55_back_right_cropped_0003.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0003.jpg
+14_55_back_right_cropped_0004.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0004.jpg
+14_55_back_right_cropped_0005.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0005.jpg
+14_55_back_right_cropped_0006.jpg,2,"chair, wine glass",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0006.jpg
+14_55_back_right_cropped_0007.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0007.jpg
+14_55_back_right_cropped_0008.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0008.jpg
+14_55_back_right_cropped_0009.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0009.jpg
+14_55_back_right_cropped_0010.jpg,4,"wine glass, chair, vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0010.jpg
+14_55_back_right_cropped_0011.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0011.jpg
+14_55_back_right_cropped_0012.jpg,4,"vase, chair, vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0012.jpg
+14_55_back_right_cropped_0013.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0013.jpg
+14_55_back_right_cropped_0014.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0014.jpg
+14_55_back_right_cropped_0015.jpg,3,"person, chair, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0015.jpg
+14_55_back_right_cropped_0016.jpg,2,"person, cup",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0016.jpg
+14_55_back_right_cropped_0017.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0017.jpg
+14_55_back_right_cropped_0018.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0018.jpg
+14_55_back_right_cropped_0019.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0019.jpg
+14_55_back_right_cropped_0020.jpg,3,"vase, chair, bowl",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0020.jpg
+14_55_back_right_cropped_0021.jpg,3,"vase, vase, keyboard",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0021.jpg
+14_55_back_right_cropped_0022.jpg,3,"vase, chair, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0022.jpg
+14_55_back_right_cropped_0023.jpg,2,"person, toilet",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0023.jpg
+14_55_back_right_cropped_0024.jpg,3,"wine glass, chair, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0024.jpg
+14_55_back_right_cropped_0025.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0025.jpg
+14_55_back_right_cropped_0026.jpg,3,"person, bottle, spoon",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0026.jpg
+14_55_back_right_cropped_0027.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0027.jpg
+14_55_back_right_cropped_0028.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0028.jpg
+14_55_back_right_cropped_0029.jpg,5,"person, chair, person, vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0029.jpg
+14_55_back_right_cropped_0030.jpg,3,"person, chair, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0030.jpg
+14_55_back_right_cropped_0031.jpg,2,"person, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0031.jpg
+14_55_back_right_cropped_0032.jpg,2,"chair, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0032.jpg
+14_55_back_right_cropped_0033.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0033.jpg
+14_55_back_right_cropped_0034.jpg,4,"person, vase, chair, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0034.jpg
+14_55_back_right_cropped_0035.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0035.jpg
+14_55_back_right_cropped_0036.jpg,4,"person, person, wine glass, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0036.jpg
+14_55_back_right_cropped_0037.jpg,3,"person, chair, spoon",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0037.jpg
+14_55_back_right_cropped_0038.jpg,3,"vase, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0038.jpg
+14_55_back_right_cropped_0039.jpg,3,"person, chair, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0039.jpg
+14_55_back_right_cropped_0040.jpg,2,"person, wine glass",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0040.jpg
+14_55_back_right_cropped_0041.jpg,4,"vase, person, spoon, wine glass",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0041.jpg
+14_55_back_right_cropped_0042.jpg,4,"person, chair, vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0042.jpg
+14_55_back_right_cropped_0043.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0043.jpg
+14_55_back_right_cropped_0044.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0044.jpg
+14_55_back_right_cropped_0045.jpg,3,"person, vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0045.jpg
+14_55_back_right_cropped_0046.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0046.jpg
+14_55_back_right_cropped_0047.jpg,4,"wine glass, wine glass, cup, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0047.jpg
+14_55_back_right_cropped_0048.jpg,4,"wine glass, chair, vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0048.jpg
+14_55_back_right_cropped_0049.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0049.jpg
+14_55_back_right_cropped_0050.jpg,2,"vase, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0050.jpg
+14_55_back_right_cropped_0051.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0051.jpg
+14_55_back_right_cropped_0052.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0052.jpg
+14_55_back_right_cropped_0053.jpg,3,"vase, chair, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0053.jpg
+14_55_back_right_cropped_0054.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0054.jpg
+14_55_back_right_cropped_0055.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0055.jpg
+14_55_back_right_cropped_0056.jpg,2,"fire hydrant, chair",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0056.jpg
+14_55_back_right_cropped_0057.jpg,4,"person, vase, chair, suitcase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0057.jpg
+14_55_back_right_cropped_0058.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0058.jpg
+14_55_back_right_cropped_0059.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0059.jpg
+14_55_back_right_cropped_0060.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0060.jpg
+14_55_back_right_cropped_0061.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0061.jpg
+14_55_back_right_cropped_0062.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0062.jpg
+14_55_back_right_cropped_0063.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0063.jpg
+14_55_back_right_cropped_0064.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0064.jpg
+14_55_back_right_cropped_0065.jpg,4,"vase, keyboard, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0065.jpg
+14_55_back_right_cropped_0066.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0066.jpg
+14_55_back_right_cropped_0067.jpg,3,"cake, person, keyboard",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0067.jpg
+14_55_back_right_cropped_0068.jpg,3,"person, vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0068.jpg
+14_55_back_right_cropped_0069.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_back_right_cropped_0069.jpg
+14_55_front_cropped_0000.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0000.jpg
+14_55_front_cropped_0001.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0001.jpg
+14_55_front_cropped_0002.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0002.jpg
+14_55_front_cropped_0003.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0003.jpg
+14_55_front_cropped_0004.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0004.jpg
+14_55_front_cropped_0005.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0005.jpg
+14_55_front_cropped_0006.jpg,2,"fire hydrant, parking meter",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0006.jpg
+14_55_front_cropped_0007.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0007.jpg
+14_55_front_cropped_0008.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0008.jpg
+14_55_front_cropped_0009.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0009.jpg
+14_55_front_cropped_0010.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0010.jpg
+14_55_front_cropped_0011.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0011.jpg
+14_55_front_cropped_0012.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0012.jpg
+14_55_front_cropped_0013.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0013.jpg
+14_55_front_cropped_0014.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0014.jpg
+14_55_front_cropped_0015.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0015.jpg
+14_55_front_cropped_0016.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0016.jpg
+14_55_front_cropped_0017.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0017.jpg
+14_55_front_cropped_0018.jpg,1,car,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0018.jpg
+14_55_front_cropped_0019.jpg,2,"person, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0019.jpg
+14_55_front_cropped_0020.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0020.jpg
+14_55_front_cropped_0021.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0021.jpg
+14_55_front_cropped_0022.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0022.jpg
+14_55_front_cropped_0023.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0023.jpg
+14_55_front_cropped_0024.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0024.jpg
+14_55_front_cropped_0025.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0025.jpg
+14_55_front_cropped_0026.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0026.jpg
+14_55_front_cropped_0027.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0027.jpg
+14_55_front_cropped_0028.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0028.jpg
+14_55_front_cropped_0029.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0029.jpg
+14_55_front_cropped_0030.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0030.jpg
+14_55_front_cropped_0031.jpg,3,"vase, vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0031.jpg
+14_55_front_cropped_0032.jpg,6,"person, vase, vase, person, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0032.jpg
+14_55_front_cropped_0033.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0033.jpg
+14_55_front_cropped_0034.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0034.jpg
+14_55_front_cropped_0035.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0035.jpg
+14_55_front_cropped_0036.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0036.jpg
+14_55_front_cropped_0037.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0037.jpg
+14_55_front_cropped_0038.jpg,3,"person, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0038.jpg
+14_55_front_cropped_0039.jpg,3,"vase, person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0039.jpg
+14_55_front_cropped_0040.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0040.jpg
+14_55_front_cropped_0041.jpg,5,"vase, person, person, chair, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0041.jpg
+14_55_front_cropped_0042.jpg,3,"person, vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0042.jpg
+14_55_front_cropped_0043.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0043.jpg
+14_55_front_cropped_0044.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0044.jpg
+14_55_front_cropped_0045.jpg,2,"person, car",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0045.jpg
+14_55_front_cropped_0046.jpg,2,"person, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0046.jpg
+14_55_front_cropped_0047.jpg,2,"person, fire hydrant",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0047.jpg
+14_55_front_cropped_0048.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0048.jpg
+14_55_front_cropped_0049.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0049.jpg
+14_55_front_cropped_0050.jpg,3,"person, car, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0050.jpg
+14_55_front_cropped_0051.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0051.jpg
+14_55_front_cropped_0052.jpg,2,"person, bench",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0052.jpg
+14_55_front_cropped_0053.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0053.jpg
+14_55_front_cropped_0054.jpg,2,"person, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0054.jpg
+14_55_front_cropped_0055.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0055.jpg
+14_55_front_cropped_0056.jpg,2,"person, fire hydrant",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0056.jpg
+14_55_front_cropped_0057.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0057.jpg
+14_55_front_cropped_0058.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0058.jpg
+14_55_front_cropped_0059.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0059.jpg
+14_55_front_cropped_0060.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0060.jpg
+14_55_front_cropped_0061.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0061.jpg
+14_55_front_cropped_0062.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0062.jpg
+14_55_front_cropped_0063.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0063.jpg
+14_55_front_cropped_0064.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0064.jpg
+14_55_front_cropped_0065.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0065.jpg
+14_55_front_cropped_0066.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0066.jpg
+14_55_front_cropped_0067.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0067.jpg
+14_55_front_cropped_0068.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0068.jpg
+14_55_front_cropped_0069.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\14_55_front_cropped_0069.jpg
+20250326_110923.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_110923.jpg
+20250326_112218.jpg,2,"vase, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_112218.jpg
+20250326_130133.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130133.jpg
+20250326_130204.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130204.jpg
+20250326_130347.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130347.jpg
+20250326_130409.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130409.jpg
+20250326_130417.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130417.jpg
+20250326_130426.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130426.jpg
+20250326_130541.jpg,1,knife,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130541.jpg
+20250326_130853.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_130853.jpg
+20250326_134806.jpg,3,"person, cup, person",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_134806.jpg
+20250326_135120.jpg,1,wine glass,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_135120.jpg
+20250326_135340.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_135340.jpg
+20250326_143209.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_143209.jpg
+20250326_143708.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_143708.jpg
+20250326_143715.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_143715.jpg
+20250326_143754.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_143754.jpg
+20250326_144137.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144137.jpg
+20250326_144141.jpg,2,"cup, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144141.jpg
+20250326_144154.jpg,2,"bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144154.jpg
+20250326_144203.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144203.jpg
+20250326_144323.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144323.jpg
+20250326_144449.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144449.jpg
+20250326_144548.jpg,2,"bottle, orange",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144548.jpg
+20250326_144627.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144627.jpg
+20250326_144906.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144906.jpg
+20250326_144910.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144910.jpg
+20250326_144942.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_144942.jpg
+20250326_145047.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_145047.jpg
+20250326_145650.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_145650.jpg
+20250326_145749.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_145749.jpg
+20250326_145936.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_145936.jpg
+20250326_150043.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_150043.jpg
+20250326_150104.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_150104.jpg
+20250326_150109.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_150109.jpg
+20250326_150217.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_150217.jpg
+20250326_150220.jpg,3,"person, person, fire hydrant",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_150220.jpg
+20250326_151237.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151237.jpg
+20250326_151249.jpg,2,"bottle, fire hydrant",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151249.jpg
+20250326_151318.jpg,2,"vase, cup",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151318.jpg
+20250326_151324.jpg,3,"vase, vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151324.jpg
+20250326_151327.jpg,4,"vase, vase, vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151327.jpg
+20250326_151329.jpg,2,"vase, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151329.jpg
+20250326_151332.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151332.jpg
+20250326_151335.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151335.jpg
+20250326_151342.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151342.jpg
+20250326_151345.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151345.jpg
+20250326_151348.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151348.jpg
+20250326_151351.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151351.jpg
+20250326_151354.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151354.jpg
+20250326_151358.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151358.jpg
+20250326_151400.jpg,4,"vase, cup, bottle, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151400.jpg
+20250326_151422.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151422.jpg
+20250326_151434.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151434.jpg
+20250326_151441.jpg,1,cup,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151441.jpg
+20250326_151535.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151535.jpg
+20250326_151605.jpg,1,toilet,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151605.jpg
+20250326_151607.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151607.jpg
+20250326_151612.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151612.jpg
+20250326_151633.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151633.jpg
+20250326_151637.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151637.jpg
+20250326_151659.jpg,2,"toilet, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151659.jpg
+20250326_151702.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151702.jpg
+20250326_151706.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151706.jpg
+20250326_151838.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151838.jpg
+20250326_151857.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151857.jpg
+20250326_151901.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151901.jpg
+20250326_151910.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151910.jpg
+20250326_151919.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151919.jpg
+20250326_151926.jpg,1,cup,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151926.jpg
+20250326_151929.jpg,5,"bottle, bottle, toilet, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151929.jpg
+20250326_151932.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151932.jpg
+20250326_151935.jpg,7,"vase, bottle, cup, bottle, bottle, vase, spoon",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151935.jpg
+20250326_151937.jpg,4,"bottle, bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151937.jpg
+20250326_151941.jpg,4,"bottle, bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151941.jpg
+20250326_151946.jpg,4,"bottle, bottle, bottle, cup",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151946.jpg
+20250326_151949.jpg,6,"vase, vase, bottle, bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151949.jpg
+20250326_151954.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151954.jpg
+20250326_151958.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_151958.jpg
+20250326_152001.jpg,3,"bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152001.jpg
+20250326_152004.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152004.jpg
+20250326_152008.jpg,2,"bottle, cup",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152008.jpg
+20250326_152012.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152012.jpg
+20250326_152015.jpg,2,"vase, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152015.jpg
+20250326_152018.jpg,1,bottle,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152018.jpg
+20250326_152022.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152022.jpg
+20250326_152117.jpg,3,"bottle, vase, car",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152117.jpg
+20250326_152120.jpg,3,"bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152120.jpg
+20250326_152128.jpg,3,"bottle, bottle, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152128.jpg
+20250326_152139.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152139.jpg
+20250326_152149.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152149.jpg
+20250326_152157.jpg,3,"vase, vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152157.jpg
+20250326_152159.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152159.jpg
+20250326_152201.jpg,1,cake,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152201.jpg
+20250326_152206.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152206.jpg
+20250326_152208.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152208.jpg
+20250326_152210.jpg,2,"vase, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152210.jpg
+20250326_152213.jpg,3,"vase, bottle, vase",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152213.jpg
+20250326_152216.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152216.jpg
+20250326_152218.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152218.jpg
+20250326_152221.jpg,3,"vase, cup, cup",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152221.jpg
+20250326_152223.jpg,1,chair,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152223.jpg
+20250326_152237.jpg,2,"vase, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152237.jpg
+20250326_152251.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152251.jpg
+20250326_152259.jpg,1,person,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152259.jpg
+20250326_152304.jpg,2,"vase, bottle",d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152304.jpg
+20250326_152307.jpg,1,fire hydrant,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152307.jpg
+20250326_152313.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152313.jpg
+20250326_152315.jpg,1,donut,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152315.jpg
+20250326_152320.jpg,0,,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152320.jpg
+20250326_152325.jpg,1,vase,d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\results\gas_bottle_baseline\20250326_152325.jpg

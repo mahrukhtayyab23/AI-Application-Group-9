@@ -1,0 +1,3 @@
+dataset,split,images_train,images_valid,classes,precision,recall,mAP50,mAP50-95
+cvat_batch_1,train,103.0,25.0,['gas-bottles'],0.99456,0.97222,0.975,0.88264
+cvat_batch_1,val,,,,0.9945382095727977,0.9722222222222222,0.975,0.8772374177442398

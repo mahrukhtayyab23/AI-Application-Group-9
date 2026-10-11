@@ -1,0 +1,2 @@
+dataset,classes,nc,epochs,imgsz,batch,fraction,device,run_dir,best_weights,precision,recall,mAP50,mAP50-95,train_box_loss,train_cls_loss,val_box_loss,val_cls_loss
+gas_hack,['gas'],1,5,416,4,0.25,cpu,results\gas_bottle_training\yolo11n_gas_hack,results\gas_bottle_training\yolo11n_gas_hack\weights\best.pt,0.00333,1.0,0.8358,0.59004,0.89611,2.1288,0.82518,2.6292
