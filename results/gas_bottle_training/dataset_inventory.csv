@@ -1,4 +1,0 @@
-dataset,exists,yaml,nc,names,train_images,train_labels,valid_images,valid_labels,test_images,test_labels
-gas_bottles,True,data.yaml,1,['gas_cylinder'],18137,18137,4862,4862,2270,2270
-gas_cylinder,True,data.yaml,2,"['Cap_Close', 'Cap_open']",709,709,207,207,108,108
-gas_hack,True,data.yaml,1,['gas'],88,88,24,24,10,10

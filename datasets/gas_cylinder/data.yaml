@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Recognising-Indian-Indian-gas', 'gas cylinder head']
+
+roboflow:
+  workspace: obj-dect
+  project: gas-cylinder-detection
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/obj-dect/gas-cylinder-detection/dataset/3

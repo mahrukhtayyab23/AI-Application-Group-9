@@ -1,2 +1,0 @@
-dataset,classes,nc,epochs,imgsz,batch,fraction,device,run_dir,best_weights,precision,recall,mAP50,mAP50-95,train_box_loss,train_cls_loss,val_box_loss,val_cls_loss
-gas_bottles,['gas_cylinder'],1,5,416,4,0.25,cpu,results\gas_bottle_training\yolo11n_gas_bottles,results\gas_bottle_training\yolo11n_gas_bottles\weights\best.pt,0.98125,0.76173,0.87258,0.83559,0.11817,0.11001,0.44435,1.31481

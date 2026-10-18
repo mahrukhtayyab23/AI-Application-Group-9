@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolo11n.pt
-data: d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\data\gas_bottles\data.yaml
+data: d:\BCS Files\Y3S1\AI Applications MBI38j\Labs\primagaz-yolo\datasets\gas_bottles\data.yaml
 epochs: 5
 time: null
 patience: 100
